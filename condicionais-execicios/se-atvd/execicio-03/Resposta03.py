@@ -1,2 +1,4 @@
-nome = input("Digite seu nome: ")
-print(f"Olá, {nome}! Seja bem-vindo(a)!")
+temp = float(input("Digite a temperatura em Celsius: "))
+if temp > 35:
+    temp += 5
+print(f"A temperatura em Celsius é: {temp}")

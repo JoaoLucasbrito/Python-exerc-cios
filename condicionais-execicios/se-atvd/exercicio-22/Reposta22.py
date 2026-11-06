@@ -1,6 +1,8 @@
-distancia = float(input("Digite a distância percorrida em km: "))
-valor_total = float(input("Digite o valor total da corrida: "))
-if distancia >= 10:
-    valor_total += 25
-    print(valor_total)
-    
+curtidas = int(input("Digite a quantidade de curtidas: "))
+comentarios = int(input("Digite a quantidade de comentarios: "))
+pontos = int(input("Digite os pontos iniciais: "))
+
+if curtidas >= 100 and comentarios >= 30:
+    pontos = pontos + 50
+
+print("Pontuacao final:", pontos)

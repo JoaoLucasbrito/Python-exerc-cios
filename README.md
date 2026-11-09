@@ -54,21 +54,21 @@ Este repositorio contem a resolução dos execicios referente aos aprendidos des
 #### Se/SenãoSe/Senão (`if/elif/else`)
 
 - Exercício 33 -- Triagem de Hospital - [Ver Pasta](./condicionais-execicios/se-atvd/exercicio-33/Resposta33.py)
-  - Resposta alternativa utilizando **Match Case**.
+
 - Exercício 34 -- Categorização de Atletas por Idade - [Ver Pasta](./condicionais-execicios/se-atvd/exercicio-34/Resposta34.py)
+
 - Exercício 35 -- Saudação Por Turno - [Ver Pasta](./condicionais-execicios/se-atvd/exercicio-35/Resposta35.py)
-  - Resposta alternativa utilizando **Match Case**.
+
 - Exercício 36 -- Placar de Jogo de Futebol - [Ver Pasta](./condicionais-execicios/se-atvd/exercicio-36/Resposta36.py)
-  - Resposta alternativa utilizando **Match Case**.
+  
 
 #### Estrutura Condicional Aninhada
 
 - Exercício 37 -- Cadastro de Funcionário - [Ver Pasta](./condicionais-execicios/se-atvd/exercicio-37/Resposta37.py)
-  - Resposta alternativa utilizando **Match Case**.
+ 
 - Exercício 38 -- Sistema de Entrega - [Ver Pasta](./condicionais-execicios/se-atvd/exercicio-38/Resposta38.py)
-  - Resposta alternativa utilizando **Match Case**.
+
 - Exercício 39 -- Controle de Acesso ao Sistema - [Ver Pasta](./condicionais-execicios/se-atvd/exercicio-39/Resposta39.py)
-  - Resposta alternativa utilizando **Match Case**.
 
 #### Match Case
 
